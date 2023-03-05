@@ -1,0 +1,4 @@
+Hola, esta es mi primera prueba de GIT. Voy a compartir mi repositorio con un compañero y él va a subir otro fichero.
+
+
+
